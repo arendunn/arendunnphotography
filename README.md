@@ -1,2 +1,2 @@
-# Aren Dunn Photography's Landing Page
+# arendunnphotography-landingpage
 This is a landing page for Aren Dunn Photography.
