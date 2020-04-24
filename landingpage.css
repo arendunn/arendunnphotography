@@ -1,0 +1,29 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: Helvetica;
+    }
+.bg {
+    background-image: url("helensburgh.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+a {
+    color: white;
+    padding: 6px;
+    outline-style: dotted;
+    outline-color: rgba(255, 255, 255, 0.342);
+    outline-width: 3px;
+    text-decoration: none;
+}
+#titlefont {
+    text-align: center;
+    letter-spacing: 4px;
+    padding: 10px;
+    outline-style: ridge;
+    outline-color: white;
+    outline-width: 3px;
+    color: white;
+}
