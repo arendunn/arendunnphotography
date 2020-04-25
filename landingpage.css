@@ -10,7 +10,7 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
     }
-a {
+a.aboutme, a.portfolio, a.shop, a.contact {
     color: white;
     padding: 6px;
     outline-style: dotted;
@@ -18,12 +18,13 @@ a {
     outline-width: 3px;
     text-decoration: none;
 }
-#titlefont {
+font.title {
     text-align: center;
-    letter-spacing: 4px;
+    letter-spacing:7px;
     padding: 10px;
-    outline-style: ridge;
+    outline-style: double;
     outline-color: white;
     outline-width: 3px;
     color: white;
+    vertical-align: middle;
 }
